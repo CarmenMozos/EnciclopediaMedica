@@ -2,15 +2,18 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>Mapa de Imagen - Hipertensión</title>
+    <link rel="stylesheet" href="../style.css">
 </head>
 <body>
     <header>
         <a href="../index.html">
             <img src="../imagenes/logo.png" alt="Medline logo">
         </a>
-        <h1>Mapa de Imagen - Hipertensión</h1>
+        <h1>MEDLINE</h1>
     </header>
+
     <div id="migas">
         Está en: <a href="../index.html">Inicio</a> &gt; <a href="mapa_hipertension.html">Mapa Hipertensión</a>
     </div> 
@@ -18,16 +21,12 @@
     <main>
         <h2>Aprende más sobre la hipertensión con el siguiente mapa interactivo</h2>
        
-        <img src="../imagenes/mapa_hipertension.jpg" alt="Hipertensión" usemap="#mapa_hipertension" width="1000" height="700">
-        
+        <img id='hipertension' src="../imagenes/mapa_hipertension.jpg" alt="Hipertensión" usemap="#mapa_hipertension">
+
         <map name="mapa_hipertension">
-           
-            
             <area shape="poly" coords="120,300,310,300,310,600,120,600" href="https://www.heart.org/en/health-topics/high-blood-pressure" alt="Hipertensión - Tensiómetro">
             <area shape="rect" coords="400,400,600,500" href="https://medlineplus.gov/spanish/ency/article/000468.htm" alt="Síntomas de la Hipertensión">
             <area shape="rect" coords="250,20,750,80" href="https://www.cdc.gov/bloodpressure/index.htm" alt="Hipertensión y Corazón">
-
-        
         </map>
     </main>
 

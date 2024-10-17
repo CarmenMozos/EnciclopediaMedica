@@ -2,41 +2,49 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Búsqueda en la Enciclopedia</title>
+    <link rel="stylesheet" href="../style.css">
 </head>
 
 <body>
     <header>
         <a href="../index.html">
             <img src="../imagenes/logo.png" alt="Medline logo">
-          </a>
-            <h1>Medline</h1>
+        </a>
+        <h1>MEDLINE</h1>
     </header>
+    <a href="#buscar" class="saltar-a-contenido">Saltar a buscar</a>
+
     <div id="migas">
         Está en: <a href="../index.html">Inicio</a> &gt; <a href="buscador.html">Buscador</a>
-    </div> 
+    </div>
+
     <main>
         <h1>Buscador</h1>
+        <form id='buscador' action="Benviado.html" method="GET">
+            <p><label for="descripcion">&#128269; Descripción:</label>
+            <input type="text" id="descripcion" name="descripcion"></p>
 
-    <form action="Benviado.html" method="GET">
-        <p><label for="descripcion">Descripción:</label>
-        <input type="text" id="descripcion" name="descripcion"></p>
-        <p><label for="causas">Causas:</label>
-        <input type="text" id="causas" name="causas"></p>
-        <p><label for="sintomas">Síntomas:</label>
-        <input type="text" id="sintomas" name="sintomas"></p>
-        <p><label for="pruebas">Pruebas y Exámenes:</label>
-        <input type="text" id="pruebas" name="pruebas"></p>
-        <p><label for="tratamiento">Tratamiento:</label>
-        <input type="text" id="tratamiento" name="tratamiento"></p>
-        <p><label for="expectativas">Expectativas:</label>
-        <input type="text" id="expectativas" name="expectativas"></p>
-        <input type="submit" value="buscar">
-           
+            <p><label for="causas">&#129302; Causas:</label>
+            <input type="text" id="causas" name="causas"></p>
 
-    </form>
-        
+            <p><label for="sintomas">&#128138; Síntomas:</label>
+            <input type="text" id="sintomas" name="sintomas"></p>
+
+            <p><label for="pruebas">&#128300; Pruebas y Exámenes:</label>
+            <input type="text" id="pruebas" name="pruebas"></p>
+
+            <p><label for="tratamiento">&#128137; Tratamiento:</label>
+            <input type="text" id="tratamiento" name="tratamiento"></p>
+
+            <p><label for="expectativas">&#128640; Expectativas:</label>
+            <input type="text" id="expectativas" name="expectativas"></p>
+
+            <input id= "buscar" type="submit" value="Buscar">
+        </form>
     </main>
+
     <footer>
         <p><a href="contenidos.html">Mapa web</a></p>
         <p>Carmen Mozos de Garnica y Estela López Alonso</p>
@@ -44,7 +52,5 @@
         <p>edcl1@alu.ua.es</p>
         <p>Universidad de Alicante</p>
     </footer>
-
 </body>
 </html>
-
