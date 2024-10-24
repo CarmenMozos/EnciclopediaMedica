@@ -13,7 +13,7 @@ body {
 }
 
 body a {
-    color: #2c3e50;
+    color: #a50202;
     text-decoration: none;
 }
 
@@ -23,6 +23,7 @@ body a:hover {
 
 header, nav, footer {
     width: 100%;
+    box-sizing: border-box;
 }
 
 header {
@@ -75,6 +76,7 @@ nav {
     background-color: #2c3e50;
     color: #ffffff;
     padding: 30px;
+    overflow-x: hidden;
 }
 
 nav a {
@@ -92,10 +94,12 @@ nav ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    max-width: 100%;
 }
 
 nav li {
     margin: 5px 10px;
+    white-space: nowrap;
 }
 
 main {
@@ -238,6 +242,14 @@ td {
     max-width: 800px;          
     text-align: center;         
 }
+#paginas a {
+    color: #a50202;
+    text-decoration: none;
+}
+#paginas a:hover {
+    text-decoration: underline;
+}
+
 #Benviado, #Cenviado, #ERROR, #fenviado{
     display: flex;                    
     flex-direction: column;            
@@ -326,6 +338,7 @@ img {
 
     nav a {
         font-size: 14px;
+        white-space: normal;
     }
 
     main {

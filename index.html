@@ -5,10 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>Enciclopedia Médica </title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" type="text/css" href="style.css" title="Estilo Principal">
+    <link rel="alternate stylesheet" type="text/css" href="estilo_noche.css" title="Modo Noche">
+    <link rel="alternate stylesheet" type="text/css" href="estilo_alto_contraste.css" title="Alto Contraste">
+    <link rel="alternative stylesheet" type="text/css" href="estilo_impresion.css" >
+    <link rel="alternative stylesheet" type="text/css" href="estilo_accesible.css" title="Accesibilidad">
+
 </head>
 <body>
     <header>
-        <img src="imagenes/logo.png" alt="Medline Logo">
+        <img src="imagenes/logo.png" class= "decorative image" alt="Medline Logo">
         <h1>MEDLINE</h1>
     </header>
 
@@ -66,11 +72,11 @@
             </article>
         </section>
 
-        <section id="paginas">
+        <div id="paginas">
             <p>Si tiene alguna consulta <a href="paginas/cuestionario.html">contacta con nosotros</a>.</p>
             <p>Indíquenos <a href="paginas/formulario.html">si le ha gustado nuestra página</a>.</p>
             <p>Consulte nuestra <a href="paginas/accesibilidad.html">declaración de accesibilidad</a>.</p>
-        </section>
+        </div>
     </main>
 
     <footer>
@@ -79,6 +85,15 @@
         <p>cmdg6@alu.ua.es</p>
         <p>edcl1@alu.ua.es</p>
         <p>Universidad de Alicante</p>
+
+        <script>
+            const toggleButton = document.getElementById('toggle-dark-mode');
+            const body = document.body;
+    
+            toggleButton.addEventListener('click', () => {
+                body.classList.toggle('dark-mode');
+            });
+        </script>
     </footer>
 </body>
 </html>
