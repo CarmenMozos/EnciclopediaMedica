@@ -1,0 +1,15 @@
+Welcome to the video on how to use the medical encyclopedia. To start, this is the main page, which can also be called the index. Here you can select the style that you like best or that best suits your needs.
+
+These include the night style, the high contrast style and, finally, a style that provides more accessibility. Once you have selected the desired style, you can navigate through the website. The first thing you see is a search engine that allows you to do a direct search, filling in the desired fields.
+
+From this same page you can see that, from any of the pages on the website, you can return to the index by clicking on the header logo. You can also check where you are by looking at the breadcrumbs and return to any of the previous pages by clicking on them. Another way to navigate more quickly through the website is to access the map of the website, available in the footer.
+
+This shows all the content that can be accessed. To continue, we will return to the main page. This contains certain featured articles, access to forms, etc.
+
+Another way to consult information about diseases is by the letter they start with. If you click on a letter that does not have any disease available, an error will appear. However, if you select a letter that does have a disease, the index will open with the diseases that start with it.
+
+When you click on the disease of interest, different information will appear. For example, related images, description, causes, symptoms, tests, treatment, expectations and an embedded video that also talks about it. Returning to the main page, I will discuss other available options.
+
+In addition to seeing all the diseases and their information, there is the possibility of contacting us through the contact form. Whether to ask a question, complaint or any type of query. Another option is to indicate the level of satisfaction you have with the page through the satisfaction form.
+
+And finally, you can consult the accessibility statement to find out the measures we have taken to make our website an accessible website.

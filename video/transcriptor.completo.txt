@@ -1,0 +1,38 @@
+
+
+"Bienvenidos al vídeo de cómo utilizar la enciclopedia médica. Para empezar, esta es la página principal,a la que también se le puede llamar índice".Está diseñada para ofrecer a los usuarios información extensa y accesible sobre temas de salud. En la parte superior, se encuentra el logotipo de Medline, seguido por el título "Enciclopedia Médica" en letras grandes y llamativas. Bajo el título, se muestra una breve introducción que explica que la enciclopedia cuenta con más de 4,000 artículos, abordando temas como enfermedades, exámenes, síntomas, lesiones y procedimientos quirúrgicos. La página invita al usuario a explorar una variedad de temas médicos.
+
+"En esta podéis seleccionar el estilo que más os guste o que más se adapte a vuestras necesidades".
+Ya que en la parte superior se encuentra una pestaña denominada "ver", en la cual podemos seleccionar el estilo para la pagina web.  
+
+"Entre ellos están:
+El estilo noche" ; ofrece un diseño con fondo oscuro (negro) y texto claro (blanco), ideal para reducir la fatiga visual en condiciones de poca luz. Los títulos y enlaces importantes aparecen en colores brillantes, como rojo o azul claro, para destacar sobre el fondo oscuro, y las imágenes mantienen un buen contraste para asegurar su claridad. Este modo mejora la experiencia de lectura, ayudando a los usuarios a navegar cómodamente y reducir la fatiga ocular al consultar artículos médicos.
+
+"El estilo de alto contraste" de la página web de la Enciclopedia Médica de Medline utiliza un fondo negro intenso con texto en colores muy contrastantes, como blanco, negro o amarillo brillante, para facilitar la lectura y mejorar la visibilidad. Este modo está diseñado especialmente para usuarios con baja visión o dificultades visuales, ayudando a distinguir fácilmente el texto, los enlaces y los elementos destacados. Los títulos y enlaces importantes se muestran en colores vivos, y las imágenes se adaptan para mantener una alta definición y claridad en los detalles médicos. Este estilo mejora la accesibilidad visual, haciendo que el contenido sea más claro y fácil de navegar.
+
+ 
+"Y, por último, un estilo que brinda más accesibilidad".Está diseñado para optimizar la experiencia de usuarios con diversas necesidades de accesibilidad. Este modo combina varios ajustes, como una tipografía más grande y legible, mayor espaciado entre líneas y elementos, y un esquema de colores amigable para personas con daltonismo, evitando combinaciones difíciles de distinguir. Además, resalta los elementos interactivos, como enlaces y botones, subrayados más visibles. Este estilo facilita la navegación con lectores de pantalla y permite desplazarse fácilmente por el sitio, proporcionando una experiencia inclusiva y cómoda para usuarios con discapacidades visuales o cognitivas.
+
+"Una vez seleccionado el estilo deseado, se puede navegar por la página web. Lo primero que vemos es un buscador que permite hacer una búsqueda directa, completando los campos deseados".Dispone En la parte superior, sobre un fondo azul oscuro, se destaca el logotipo de Medline, compuesto por una estrella blanca y el nombre de la marca en letras blancas. Debajo, una ruta de navegación en color gris indica la ubicación dentro del sitio: Inicio > Buscador, con la palabra "Buscador" resaltada en rojo. El título está centrado y en letras grandes, seguido de varios campos de búsqueda con etiquetas y pequeños íconos representando diferentes categorías de información, como Descripción (ícono de lupa), Causas (microscopio), Síntomas (cápsula de medicamento), Pruebas y Exámenes (estetoscopio), Tratamiento (jeringa) y Expectativas (gráfica). Cada campo tiene un espacio en blanco para que el usuario introduzca detalles específicos y realice una búsqueda precisa. Abajo, un botón rojo con la palabra "Buscar" permite iniciar la consulta. En la parte inferior de la página, también sobre un fondo azul oscuro, se muestran los créditos, que incluyen el Mapa web, los nombres de las autoras Carmen Mozos de Garnica y Estela López Alonso, sus correos electrónicos institucionales, y el nombre de la Universidad de Alicante. Este diseño está claramente enfocado en ofrecer una navegación sencilla para realizar búsquedas médicas detalladas.
+
+
+"Desde esta misma página se puede demostrar que, desde cualquiera de las páginas de la web, es posible volver al índice pulsando el logo del header".Seleccionando el logo descrito anteriormente podemos volver a la página inicial, del sitio web.
+
+"También se puede comprobar dónde nos encontramos mirando las migas y volver a cualquiera de las páginas anteriores pulsando sobre ellas".Estas son las rutas descritas previamente en la descripción de la página web.
+
+"Otra manera de navegar más rápido por la web es acceder al mapa de esta, disponible en el footer".El cuál se encuentra situado en la parte inferior ,del cual hemos hablado momentos antes. 
+
+"En este se observan todos los contenidos a los que se puede acceder. Para continuar, volveremos a la página principal. En esta hay ciertos artículos destacados, acceso a formularios, etc."
+
+"Otra manera de consultar información respecto a las enfermedades es según la letra por la que empiezan".Justo debajo del título, hay una barra de navegación alfabética, con letras de la A a la Z, que permite a los usuarios buscar información específica sobre enfermedades o temas médicos seleccionando la letra inicial del tema de interés.
+
+"Si se pulsa una letra que no tiene ninguna enfermedad disponible, aparecerá un error".Aparece una página en la que pone "Error 404" en negro en mitad de la pantalla ya que no se encuentra disponible ninguna enfermedad por esa letra. "Sin embargo, si seleccionas una letra que sí tenga alguna enfermedad, se abrirá el índice con las enfermedades que empiezan por esta".
+
+"Al clicar en la enfermedad de interés, aparecerá diferente información.Por ejemplo, imágenes relacionadas, descripción, causas, síntomas, pruebas, tratamiento, expectativas y un vídeo insertado que habla también sobre esta".En este caso encontramos el caso de una página web sobre la "Artritis" donde vemos el titulo en la parte central seguido de una imagen explicativa con una mano afectada y otra sana. Después encontramos lo mencionado anteriormente.
+
+"Volviendo a la página principal, comentaré otras opciones disponibles.Además de ver todas las enfermedades y su información, existe la posibilidad de contactar con nosotros mediante el formulario de contacto".El cual se sitúa ak final de la pagina web en la parte central, encontraras el enlace en rojo el cual podrás seleccionar. "Ya sea para consultar alguna duda, queja o cualquier tipo de consulta". Al entrar en este encuentras un formulario acompañado de unos iconos que hacen más accesible poder rellenarlo ;además dispone d aun botón rojo al final de la página.
+
+"Otra de las opciones es indicar el nivel de satisfacción que tiene con la página mediante el formulario de satisfacción". Dispone de la misma estructura visual del anterior.
+
+"Y, por último, se puede consultar la declaración de accesibilidad para saber las medidas que hemos tomado para hacer de nuestra página web una web accesible".En la cual vemos una web con información sobre el compromiso, las características y la mejora que se emplea a través de la accesibilidad.
+

@@ -1,0 +1,16 @@
+
+Bienvenidos al vídeo de cómo utilizar la enciclopedia médica. Para empezar, esta es la página principal, a la que también se le puede llamar índice. En esta podéis seleccionar el estilo que más os guste o que más se adapte a vuestras necesidades.
+
+Entre ellos están el estilo noche, el estilo de alto contraste y, por último, un estilo que brinda más accesibilidad. Una vez seleccionado el estilo deseado, se puede navegar por la página web. Lo primero que vemos es un buscador que permite hacer una búsqueda directa, completando los campos deseados.
+
+Desde esta misma página se puede demostrar que, desde cualquiera de las páginas de la web, es posible volver al índice pulsando el logo del header. También se puede comprobar dónde nos encontramos mirando las migas y volver a cualquiera de las páginas anteriores pulsando sobre ellas. Otra manera de navegar más rápido por la web es acceder al mapa de esta, disponible en el footer.
+
+En este se observan todos los contenidos a los que se puede acceder. Para continuar, volveremos a la página principal. En esta hay ciertos artículos destacados, acceso a formularios, etc.
+
+Otra manera de consultar información respecto a las enfermedades es según la letra por la que empiezan. Si se pulsa una letra que no tiene ninguna enfermedad disponible, aparecerá un error. Sin embargo, si seleccionas una letra que sí tenga alguna enfermedad, se abrirá el índice con las enfermedades que empiezan por esta.
+
+Al clicar en la enfermedad de interés, aparecerá diferente información. Por ejemplo, imágenes relacionadas, descripción, causas, síntomas, pruebas, tratamiento, expectativas y un vídeo insertado que habla también sobre esta. Volviendo a la página principal, comentaré otras opciones disponibles.
+
+Además de ver todas las enfermedades y su información, existe la posibilidad de contactar con nosotros mediante el formulario de contacto. Ya sea para consultar alguna duda, queja o cualquier tipo de consulta. Otra de las opciones es indicar el nivel de satisfacción que tiene con la página mediante el formulario de satisfacción.
+
+Y, por último, se puede consultar la declaración de accesibilidad para saber las medidas que hemos tomado para hacer de nuestra página web una web accesible.
